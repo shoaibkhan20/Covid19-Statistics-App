@@ -23,6 +23,6 @@ Your app is ready to be deployed!
 for preview the build
 
 
-### For Deployment
+### `For Deployment`
 
 [ https://vitejs.dev/guide/static-deploy.html ]
