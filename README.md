@@ -20,7 +20,7 @@ Your app is ready to be deployed!
 
 ### `npm run preview`
 
-for preview the build
+For preview the `build` version.
 
 
 ### `For Deployment`
